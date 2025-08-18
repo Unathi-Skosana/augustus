@@ -21,8 +21,8 @@
 Augustus is an intelligent AI chatbot specifically designed to help developers build beautiful, responsive UI/UX components using Next.js 13, Tailwind CSS, and Radix UI. It leverages fine-tuned AI models to understand design requirements and generate production-ready React components with proper TypeScript support.
 
 <div align="center">
-  <img src="slides/assets/images/3.png" alt="Augustus UI Demo" width="600" style="border-radius: 8px; margin: 20px 0;" />
-  <p><em>Augustus in action - Building beautiful UI components through natural language</em></p>
+  <img src="slides/assets/images/3.png" alt="Augustus" width="600" style="border-radius: 8px; margin: 20px 0;" />
+  <p><em>Augustus - Building beautiful UI components through natural language</em></p>
 </div>
 
 ## ✨ Features
@@ -267,17 +267,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **OpenAI** - For the powerful AI models and fine-tuning capabilities
 - **NextAuth.js** - For secure authentication
 - **Tailwind CSS** - For the utility-first CSS framework
-
-## 📞 Support
-
-If you have any questions or need help:
-- Open an issue on GitHub
-- Check the documentation
-- Join our community discussions
-
----
-
-<div align="center">
-  <p>Built with ❤️ using Next.js, AI, and modern web technologies</p>
-  <p><strong>Augustus</strong> - Your AI-powered UI/UX development companion</p>
-</div>
