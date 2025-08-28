@@ -261,9 +261,4 @@ augustus/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
-
-- **Vercel** - For the amazing Next.js framework and deployment platform
-- **shadcn** - For the beautiful component library
-- **OpenAI** - For the powerful AI models and fine-tuning capabilities
-- **NextAuth.js** - For secure authentication
-- **Tailwind CSS** - For the utility-first CSS framework
+- **Kui Dev** - This codebase was forked from and mostly based on https://kui-dev.vercel.app/
